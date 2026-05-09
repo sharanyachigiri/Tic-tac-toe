@@ -1,2 +1,2 @@
-# ResponsiveLandingApp
-Developed a responsive landing page with modern UI,smooth navigation,and mobile-friendly design
+# Tic-Tac-Toe
+Developed an interactive Tic-Tac-Toe game with player turn logic and win Detection.
